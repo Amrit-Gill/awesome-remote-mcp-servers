@@ -1209,6 +1209,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Ampworth](https://ampworth.com/developers) `https://ampworth.com/mcp`
   [![Ampworth MCP connector](https://glama.ai/mcp/connectors/com.ampworth/ampworth/badges/score.svg)](https://glama.ai/mcp/connectors/com.ampworth/ampworth)
   🔓 - UK solar PV and heat pump calculators that follow the MCS standards and show their working, plus guides.
+- [Boncourant](https://boncourant.fr/agents?utm_source=awesome_mcp&utm_medium=directory&utm_campaign=fr_geo_launch) `https://boncourant.fr/mcp`
+  [![Boncourant MCP connector](https://glama.ai/mcp/connectors/fr.boncourant/boncourant/badges/score.svg)](https://glama.ai/mcp/connectors/fr.boncourant/boncourant)
+  🔓 - French electricity bill and contract audits, tariff and subscribed-power checks, with versioned, cited methods.
 - [Cigo Aircare & Carsafe](https://cigo-mcp-system-wzoy.onrender.com/docs) `https://cigo-mcp-system-wzoy.onrender.com/mcp/`
   [![Cigo Aircare & Carsafe MCP connector](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.onrender.cigo-mcp-system-wzoy/cigo-aircare-mcp)
   🔓 - HVAC filter specifications and power comparisons, vehicle cabin filter matching, and regional air-quality guidance.
